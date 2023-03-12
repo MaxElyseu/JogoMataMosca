@@ -7,6 +7,12 @@ body{
     background-repeat:no-repeat ;
 }
 
+@media (max-width: 800px) {
+    .imagem-mosquito {
+        width: 200px;
+    }
+}
+
 .painel1 {
     position: absolute;
     width: 190px;
